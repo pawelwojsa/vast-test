@@ -1,0 +1,33 @@
+<VAST version="3.0">
+  <Ad id="mm_sample-ad">
+    <InLine>
+      <AdSystem version="1.0">MM-System</AdSystem>
+      <AdTitle>Reklama Testowa OLX</AdTitle>
+
+      <Creatives>
+        <Creative sequence="1" id="video1">
+          <Linear>
+            <Duration>00:00:06</Duration>
+
+            <TrackingEvents>
+
+            </TrackingEvents>
+
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://wp.pl]]></ClickThrough>
+              <ClickTracking><![CDATA[https://wp.pl]]></ClickTracking>
+            </VideoClicks>
+
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="500">
+                <![CDATA[https://videoone.pl/panel/klient1/OLX_USLUGI_ROWER_6_16x09_20250303.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+
+          </Linear>
+        </Creative>
+      </Creatives>
+
+    </InLine>
+  </Ad>
+</VAST>
