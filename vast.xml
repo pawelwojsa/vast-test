@@ -3,6 +3,7 @@
     <InLine>
       <AdSystem version="1.0">MM-System</AdSystem>
       <AdTitle>Reklama Testowa OLX</AdTitle>
+      <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B33117069.412628194;dc_trk_aid=604839371;dc_trk_cid=228618281;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Impression>
 
       <Creatives>
         <Creative sequence="1" id="video1">
@@ -10,12 +11,12 @@
             <Duration>00:00:06</Duration>
 
             <TrackingEvents>
-
+              <Tracking event="complete"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B33117069.412628194;dc_trk_aid=604839371;dc_trk_cid=228618308;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Tracking>
             </TrackingEvents>
 
             <VideoClicks>
-              <ClickThrough><![CDATA[https://wp.pl]]></ClickThrough>
-              <ClickTracking><![CDATA[https://wp.pl]]></ClickTracking>
+              <ClickThrough><![CDATA[https://olx.pl]]></ClickThrough>
+              <ClickTracking><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N464420.110317WP.PL/B33117069.412628194;dc_trk_aid=604839371;dc_trk_cid=228618281;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1]]></ClickTracking>
             </VideoClicks>
 
             <MediaFiles>
